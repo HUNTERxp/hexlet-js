@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/HUNTERxp/hexlet-js/issues"
   },
-  "homepage": "https://github.com/HUNTERxp/hexlet-js#readme"
+  "homepage": "https://github.com/HUNTERxp/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
 }
